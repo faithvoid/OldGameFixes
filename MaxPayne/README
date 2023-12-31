@@ -1,2 +1,2 @@
-This patched .dll fixes the "JPEG error" issue on Steam Deck and other AMD Ryzen based CPUs. 
+This patched .dll fixes the "JPEG error" issue on AMD Ryzen systems (ie; the Steam Deck). Thankfully this error doesn't occur in Max Payne 2.
 Drag and drop the .dll directly into your Max Payne folder and everything should Just Work!
