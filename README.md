@@ -3,4 +3,4 @@ This is a repository containing multiple fixes for multiple retro games (around 
 Game patches currently hosted:
 - Max Payne AMD Ryzen Fix
 - The Longest Journey Font Patch
-- Syberia & Post Mortem (and other Microids games) pre-configured "player.ini" file
+- Syberia & Post Mortem (and other Microids games) intro skip files + black screen fix (pre-configured "player.ini" file)
