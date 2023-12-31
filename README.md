@@ -1,4 +1,4 @@
-This is a repository containing multiple fixes for multiple retro games to get them working in the best state they can on newer hardware.
+This is a repository containing multiple fixes for multiple retro games (around 2004 and older) to get them working in the best state they can on newer hardware.
 
 Game patches currently hosted:
 - Max Payne AMD Ryzen Fix
