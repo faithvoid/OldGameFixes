@@ -1,6 +1,6 @@
 This is a pre-configured .ini file for both Syberia & Post Mortem (and other Microids games that use the same engine). 
 Drag and drop "player.ini" into your Syberia or Post Mortem (or other Microids game) installation folder, and the games should launch in an 800x600 window (the max resolution for either of these games).
 
-Or, if you'd rather manually make a player.ini file, insert this line:
+Or, if you'd rather manually make a player.ini file, insert this line into it:
 
 800 600 32 0 BaseCMO.cmo
