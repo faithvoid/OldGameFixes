@@ -4,3 +4,7 @@ Drag and drop "player.ini" into your Syberia or Post Mortem (or other Microids g
 Or, if you'd rather manually make a player.ini file, insert this line into it:
 
 800 600 32 0 BaseCMO.cmo
+
+You can additionally change the "0" in the above line to a "1" to run the game in full-screen mode.
+
+Additionally included are intro skip files for each game. Download "intro_Microids.par" for Post Mortem or "intro_Microids.syb" for Syberia and replace them in your game's "Video" directory.
